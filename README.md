@@ -4,3 +4,5 @@ Version: 6.2
 
 ## Patches
 * fullgaps
+* autostart
+    - Uses directory ~/.config/dwm
