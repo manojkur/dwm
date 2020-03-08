@@ -6,8 +6,8 @@ static const unsigned int gappx     = 5;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "consolas:size=10" };
-static const char dmenufont[]       = "consolas:size=10";
+static const char *fonts[]          = { "Consolas for Powerline,Conolas for Powerline FixedD:size=10" };
+static const char dmenufont[]       = "Consolas for Powerline,Conolas for Powerline FixedD:size=10";
 static const char col_gray1[]       = "#2e3440";
 static const char col_gray2[]       = "#3b4252";
 static const char col_gray3[]       = "#d8dee9";
